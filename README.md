@@ -1,4 +1,4 @@
-# HCAM
+# NPDR
 
 This repository is the implementation of the paper “NPDR: A Neural Priority Dispatching Rule for Flexible Job-Shop Scheduling Problem”.
 
